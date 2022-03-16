@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula 40.1 - Classes, Objetos e Atributos", "Aula 40.1 - Classes, Objetos e Atributos\Aula 40.1 - Classes, Objetos e Atributos.csproj", "{B11379AA-7788-4BB4-BA5C-259210CC464E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula 40.2 - Classes, Objetos e Atributos", "Aula 40.2 - Classes, Objetos e Atributos\Aula 40.2 - Classes, Objetos e Atributos.csproj", "{C2F48E08-A03F-42A5-8FCB-16C31F412F3B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula 45.1 - Classes, Atributos e Metodos", "Aula 45.1 - Classes, Atributos e Metodos\Aula 45.1 - Classes, Atributos e Metodos.csproj", "{58B1B982-0D4D-4638-89CE-E7538E117571}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula 45.2 - Classes, Atributos e Metodos", "Aula 45.2 - Classes, Atributos e Metodos\Aula 45.2 - Classes, Atributos e Metodos.csproj", "{E053E63B-7B2C-4380-8F1B-AD9AF0285D6C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula 45.3 - Classes, Atributos e Metodos", "Aula 45.3 - Classes, Atributos e Metodos\Aula 45.3 - Classes, Atributos e Metodos.csproj", "{4AEBB254-4253-4C29-8CA2-E25FA87D7A71}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula 48.1 - Membros Estaticos", "Aula 48.1 - Membros Estaticos\Aula 48.1 - Membros Estaticos.csproj", "{4A07749B-E0E5-4BEA-87E5-C5736497EC33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B11379AA-7788-4BB4-BA5C-259210CC464E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B11379AA-7788-4BB4-BA5C-259210CC464E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B11379AA-7788-4BB4-BA5C-259210CC464E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B11379AA-7788-4BB4-BA5C-259210CC464E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2F48E08-A03F-42A5-8FCB-16C31F412F3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2F48E08-A03F-42A5-8FCB-16C31F412F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2F48E08-A03F-42A5-8FCB-16C31F412F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2F48E08-A03F-42A5-8FCB-16C31F412F3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58B1B982-0D4D-4638-89CE-E7538E117571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58B1B982-0D4D-4638-89CE-E7538E117571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58B1B982-0D4D-4638-89CE-E7538E117571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58B1B982-0D4D-4638-89CE-E7538E117571}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E053E63B-7B2C-4380-8F1B-AD9AF0285D6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E053E63B-7B2C-4380-8F1B-AD9AF0285D6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E053E63B-7B2C-4380-8F1B-AD9AF0285D6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E053E63B-7B2C-4380-8F1B-AD9AF0285D6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AEBB254-4253-4C29-8CA2-E25FA87D7A71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AEBB254-4253-4C29-8CA2-E25FA87D7A71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AEBB254-4253-4C29-8CA2-E25FA87D7A71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AEBB254-4253-4C29-8CA2-E25FA87D7A71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A07749B-E0E5-4BEA-87E5-C5736497EC33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A07749B-E0E5-4BEA-87E5-C5736497EC33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A07749B-E0E5-4BEA-87E5-C5736497EC33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A07749B-E0E5-4BEA-87E5-C5736497EC33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5FED579-83F5-4FC7-BA2C-DDB0972CD1FA}
+	EndGlobalSection
+EndGlobal
